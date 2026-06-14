@@ -39,11 +39,7 @@ Wolf archer is very versatile in the early game though you often need workers to
 ---
 ## Early game
 
-Link to reference graphics when relevant:
-
-- <a href="https://brandanmahaffey.github.io/LWG-Guides/static/Graphics/Opening_Response_Guide.html">Opening Response Guide</a>
-
-Den openings have the most consistent access to early gold reading with the first wolf which is a big part of what makes my opening safe. Without gold reading and reacting you will Have a bad time.
+Den openings have the most consistent access to early gold reading with the first wolf which is a big part of what makes my opening safe. Without gold reading and reacting you will have a bad time.
 I would even argue gold reading is still a safe habit for DC opening but its window to read the gold or figure out what's going on through other means is larger as your castle is later you have more time to scout and its natively safer by nature of being a more aggressive opening.
 
 When possible while scouting around someone's natural its often a very good habit to look if their castle is producing. there is a small flashing light under the door if workers are being produced, in the early game if you notice this not flashing for more than a few seconds that is highly suspect of a worker cut all in / pressure off 2 base and you will want to be on guard.
