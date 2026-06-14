@@ -62,7 +62,9 @@ There are obviously other fine ways to follow up from the classic opening, but I
 
 ## Early game scouting 
 - <a data-router-ignore href="https://brandanmahaffey.github.io/LWG-Guides/static/Graphics/Opening_Response_Guide.html">Opening Response Guide</a>
-When possible while scouting around someone's natural its often a very good habit to look if their castle is producing. There is a small flashing light under the door if workers are being produced. In the early game, if you notice this not flashing for more than a few seconds that is highly suspect of a worker cut all in / pressure off 2 base.
+ *After the opening*
+- When possible while scouting around someone's natural its often a very good habit to look if their castle is producing. There is a small flashing light under the door if workers are being produced. In the early game, if you notice this not flashing for more than a few+ seconds that is highly suspect of a worker cut all in / pressure.
+- A mixture of the above tip and just checking for the third timing is often enough info to make a generally good cookie cutter decision without having to know exactly what's going on.
 
 ## Mid Game Transitions
 
@@ -71,7 +73,7 @@ From here there are a lot of options depending on how things have gone. Transiti
 
 
 ---
-## Scouting Reactions after third
+## Vs Beast, reactions after third 
 
 ### If opponent is playing standard
 `forge > 4th base > 2 rax (4)` — can swap this order if you like, but this is how I like to do it typically. Proceed how you see fit.
@@ -92,11 +94,11 @@ From here there are a lot of options depending on how things have gone. Transiti
 
 ---
 
-### If rax vs rax after third
+### Vs Rax after third
 
 `2 rax (4) > forge > 4th base > 2 workshops / adv. workshop > forge`
 
-We really need earlier access to **4 rax** after third to be safe from all-ins, as we can't always scout their third right on time in rax vs rax with archers mucking about.
+We really need earlier access to **4 rax** after third to be safe from all-ins, as we can't always scout their third right on time in rax vs rax with archers mucking about. if you can get the scout for free then feel free to play greedier.
 
 As the game goes on, many archers get made so catapults become very strong as they hard counter them. But if you rush catas too fast you give up map control too early.
 
@@ -111,17 +113,17 @@ As the game goes on, many archers get made so catapults become very strong as th
 ### Vs Beast
 As long as you aren't horribly behind in eco you only stand to gain by waiting and growing supply. Beast benefits from trading and using their very fast production cycles to chip away at you and they can field large midgame armies because of this. If you can abstain from taking any horrendous trades until you reach 120+ supply though beast is in trouble.
 
-You still need to scout though, as beast players will regularly play very greedy hoping you stay overly passive and if you never try to punish anything you may in fact have a bad time. Another reason bird op :)
+You still need to scout though, as beast players will regularly play very greedy hoping you stay overly passive and if you never try to punish anything you may in fact have a bad time. Another reason bird op :) the hard part about playing rax vs beast is understand when you can go and when to sit tight.
 
 If upgrades are even wolf snake tends to require a substantial supply lead to battle vs rax armies. So much so that its standard play for beast to transition into catas after their 4th or 5th base in order to have some of kind answer to your death ball; once you scout them switching into cata's that is your big signal to claim the map back. If you are capable split pushing and taking bases is ideal now. Every time you come across their forces just poke and kite back away from the catas. You will trade very well and just rinse and repeat on 2 sides until they are worn down.
 
-Cata drops or letting them trap half your army alone with their entire army is their only threat to you at this point. You can nullify the getting your army trapped alone threat by keeping it together, but then you have a new problem; they can begin base tradey tactics and expand away from your army and its fairly effective.
+Cata drops or letting them trap half your army alone with their entire army is their only threat to you at this point. You can nullify the getting your army trapped alone threat by keeping it together, but then you have a new problem; they can begin base trade tactics and expand away from your army and its fairly effective but you can deal with it as long as you understand they will probably try it.
 ## Tips
-Raiders don't belong defending at home most of the time they are most dangerous threatening backstabs and scouting. The amount of times i see people pull them back to defend vs pushes smh. 
-If you can get behind them right as they leave have 1 raider hold position abit closer to were they left from incase they come back and the rest can go for the workers. Otherwise cut off the rally for a few moments then mosey behind them so you can hit them from both sides when you're ready.
+Raiders don't belong defending at home, they are most dangerous threatening backstabs and scouting. 
+If you can get behind them right as they leave have 1 raider hold position abit closer to were they left from to spot incase they come back and the rest can go for the workers. Otherwise cut off the rally for a few moments then mosey behind them so you can hit them from both sides when you're ready.
 
-With rax play I really advise a bird around the time of your third completing, as its harder to gather info without endangering or giving away the position of your raiders. Not only will the bird scout but it pulls double duty right after scouting by helping you keep nearly perfect track of their main unit positioning; this can let you much more quickly & accurately figure out weak points to go after with your raiders while macroing up.
+With rax play, I really advise a bird around the time of your third completing, as its harder to gather info without endangering or giving away the position of your raiders. Not only will the bird scout but it pulls double duty right after scouting by helping you keep nearly perfect track of their main unit positioning; this can let you much more quickly & accurately figure out weak points to go after with your raiders while macroing up.
 
-Vs beast hot keying your first 4 to 5 archers separately is useful as 4 archers will 2 shot a snake and 5 archers will 3 shot a wolf.
+Vs beast hot keying your first 4 archers separately is useful as 4 archers will 2 shot a snake
 
 Don't put your early houses as walls; they are just easy targets for wolf snake to come in and poke at. Repairing buildings is very expensive unless you need that building to stay alive in that moment; its more cost effective to just build a new house or rax rather than repair if you fear losing one in the near future. Later on it can be okay to make semi walls with buildings when you have more money.
