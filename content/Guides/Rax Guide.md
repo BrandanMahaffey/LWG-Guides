@@ -77,12 +77,9 @@ From here there are a lot of options depending on how things have gone. Transiti
 ---
 ## Vs Beast, reactions after third 
 
-### If opponent is playing standard
+#### If opponent is playing standard
 `forge > 4th base > 2 rax (4)` — can swap this order if you like, but this is how I like to do it typically. Proceed how you see fit. Standard being something along the lines of 2 den production into a third, generally meaning their third is shortly after yours or around the same time.
-
----
-
-### If opponent's 3rd is notably later than yours
+#### If opponent's 3rd is notably later than yours
 `2 rax (4) > 2x forge > take 4th base > 2 rax (6) > church`
 
 ---------------------------------------
