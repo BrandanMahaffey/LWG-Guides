@@ -83,8 +83,16 @@ From here there are a lot of options depending on how things have gone. Transiti
 ### If opponent's 3rd is notably later than yours
 `2 rax (4) > 2x forge > take 4th base > 2 rax (6) > church`
 
----
+---------------------------------------
+As long as you aren't horribly behind in eco you only stand to gain by waiting and growing supply. Beast benefits from trading and using their very fast production cycles to chip away at you and they can field large midgame armies because of this. If you can abstain from taking any horrendous trades until you reach 120+ supply though beast is in trouble.
 
+You still need to scout though, as beast players will regularly play very greedy hoping you stay overly passive and if you never try to punish anything you may in fact have a bad time. Another reason bird op :) the hard part about playing rax vs beast is understand when you can go and when to sit tight.
+
+If upgrades are even wolf snake tends to require a substantial supply lead to battle vs rax armies. So much so that its standard play for beast to transition into catas after their 4th or 5th base in order to have some of kind answer to your death ball; once you scout them switching into cata's that is your big signal to claim the map back. If you are capable split pushing and taking bases is ideal now. Every time you come across their forces just poke and kite back away from the catas. You will trade very well and just rinse and repeat on 2 sides until they are worn down.
+
+Cata drops or letting them trap half your army alone with their entire army is their only threat to you at this point. You can nullify the getting your army trapped alone threat by keeping it together, but then you have a new problem; they can begin base trade tactics and expand away from your army and its fairly effective but you can deal with it as long as you understand they will probably try it.
+
+---
 ### If opponent goes early workshop / air
 
 - Get **adv. workshop** as soon as you know — it can actually supersede the 3rd base in priority if you learn it early enough.
@@ -93,7 +101,6 @@ From here there are a lot of options depending on how things have gone. Transiti
 - Going for air or cata drops will generally mean their actual ground power is pretty weak for a while — but **don't** get carried away and try to take a 4th vs someone still on 2 base. Respect 2-base all-ins somewhat.
 
 ---
-
 ### Vs Rax after third
 
 `2 rax (4) > forge > 4th base > 2 workshops / adv. workshop > forge`
@@ -110,14 +117,7 @@ As the game goes on, many archers get made so catapults become very strong as th
 **soldiers & cata drops** are good harassment tools — much better than archers for this chaotic part of the game and can be thrown around the map in small groups. Once you have a 4-6 catas defensively you don't need very many soldiers to tank your archers / cata at home, leaving the rest free to fight for map control / harass along side the cata drops.
 
 **Gyro transition** — if the game doesn't turn into a low eco dogfight, at some point a gyro transition is a valid option to add an extra dynamic. You could also blindly add another adv workshop or 2 and blindly get gunpowder. Ballista are more supply efficient (better in 1 big fight) but struggle more with map control than gyros take your pick.
-### Vs Beast
-As long as you aren't horribly behind in eco you only stand to gain by waiting and growing supply. Beast benefits from trading and using their very fast production cycles to chip away at you and they can field large midgame armies because of this. If you can abstain from taking any horrendous trades until you reach 120+ supply though beast is in trouble.
 
-You still need to scout though, as beast players will regularly play very greedy hoping you stay overly passive and if you never try to punish anything you may in fact have a bad time. Another reason bird op :) the hard part about playing rax vs beast is understand when you can go and when to sit tight.
-
-If upgrades are even wolf snake tends to require a substantial supply lead to battle vs rax armies. So much so that its standard play for beast to transition into catas after their 4th or 5th base in order to have some of kind answer to your death ball; once you scout them switching into cata's that is your big signal to claim the map back. If you are capable split pushing and taking bases is ideal now. Every time you come across their forces just poke and kite back away from the catas. You will trade very well and just rinse and repeat on 2 sides until they are worn down.
-
-Cata drops or letting them trap half your army alone with their entire army is their only threat to you at this point. You can nullify the getting your army trapped alone threat by keeping it together, but then you have a new problem; they can begin base trade tactics and expand away from your army and its fairly effective but you can deal with it as long as you understand they will probably try it.
 ## Tips
 Raiders don't belong defending at home, they are most dangerous threatening backstabs and scouting. 
 If you can get behind them right as they leave have 1 raider hold position abit closer to were they left from to spot incase they come back and the rest can go for the workers. Otherwise cut off the rally for a few moments then mosey behind them so you can hit them from both sides when you're ready.
