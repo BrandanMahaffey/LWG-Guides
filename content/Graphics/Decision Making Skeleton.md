@@ -11,4 +11,4 @@ cssclasses:
 
 <a class="viewer-link" data-router-ignore href="https://brandanmahaffey.github.io/LWG-Guides/static/Graphics/decision_making_skeleton.html">Open fullscreen viewer</a>
 
-<iframe class="graphic-viewer" title="Decision Making Skeleton viewer" src="https://brandanmahaffey.github.io/LWG-Guides/static/Graphics/decision_making_skeleton.html" loading="lazy"></iframe>
+<iframe class="graphic-viewer" title="Decision Making Skeleton viewer" src="https://brandanmahaffey.github.io/LWG-Guides/static/Graphics/decision_making_skeleton.html?embed=1" loading="lazy"></iframe>

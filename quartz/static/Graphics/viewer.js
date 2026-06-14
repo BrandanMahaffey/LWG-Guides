@@ -1,5 +1,22 @@
 const HOME_URL = "https://brandanmahaffey.github.io/LWG-Guides/"
 
+function isEmbeddedViewer() {
+  const params = new URLSearchParams(window.location.search)
+  if (params.get("embed") === "1" || params.get("embed") === "true") return true
+  try {
+    return window.self !== window.top
+  } catch {
+    return true
+  }
+}
+
+function initEmbedMode() {
+  if (!isEmbeddedViewer()) return
+  document.body.classList.add("embed-mode")
+  const toolbar = document.querySelector(".toolbar")
+  if (toolbar) toolbar.style.display = "none"
+}
+
 function goBack() {
   if (document.referrer) {
     window.location.assign(document.referrer)
@@ -184,7 +201,11 @@ function initGraphicViewer() {
 window.goBack = goBack
 
 if (document.readyState === "loading") {
-  document.addEventListener("DOMContentLoaded", initGraphicViewer)
+  document.addEventListener("DOMContentLoaded", () => {
+    initEmbedMode()
+    initGraphicViewer()
+  })
 } else {
+  initEmbedMode()
   initGraphicViewer()
 }

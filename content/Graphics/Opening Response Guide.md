@@ -11,4 +11,4 @@ cssclasses:
 
 <a class="viewer-link" data-router-ignore href="https://brandanmahaffey.github.io/LWG-Guides/static/Graphics/Opening_Response_Guide.html">Open fullscreen viewer</a>
 
-<iframe class="graphic-viewer" title="Opening Response Guide viewer" src="https://brandanmahaffey.github.io/LWG-Guides/static/Graphics/Opening_Response_Guide.html" loading="lazy"></iframe>
+<iframe class="graphic-viewer" title="Opening Response Guide viewer" src="https://brandanmahaffey.github.io/LWG-Guides/static/Graphics/Opening_Response_Guide.html?embed=1" loading="lazy"></iframe>
