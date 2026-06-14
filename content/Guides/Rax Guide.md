@@ -50,10 +50,10 @@ Typically going 4-5 raiders off 1 rax and cutting workers at 16 to drop a very f
 Same fast Third but then drop 2 dens right away then resume workers often even cutting raider production off at 3 or 4 to get the castle and dens down faster. Its very important to note you cant actually afford to produce out of all your castles and use 3 production buildings and keep up with houses while following this setup. what you get in exchange is more flexibility if you needed to cut workers longer and pump wolves + soldier/archer you can. If your raider scouting made you feel like there was no immediate danger, simply delay using the dens in favor of worker + archer production. I also enjoy this follow up as a way to get out of a Rax Mirror match up going into the mid game.
 
 **Even older variation**
-Another option suitable in any match up but I think its only good if you follow up with mech and ideally utilizing the raiders to backstab if your opponent tries to pressure you.
+Another option suitable in any match up but I think its only good if you follow up this version with mech it has the best synergy with the towers.
+26 castle > x2 worker > 28 tower (3rd) > x2 worker > 30 tower (nat) > workshop @ 100% castle > workers > archer + house. macro up.
 
-26 castle > 28 tower (3rd) > 30 tower(nat) @ 100% castle > 3x worker > Workshop > 3x worker > archer + house, 
-will need another house after starting cata
+When placing towers vs archers put the towers forward of your expansions rather than tucked like you would vs wolves otherwise their archers can just shoot your castle for free.
 
 There are obviously other fine ways to follow up from the classic opening, but I simply listed what I believe to be the best follow ups. I really believe the sqrt setup (1rax 1 house into third) is still a top tier opening.
 
@@ -62,6 +62,8 @@ There are obviously other fine ways to follow up from the classic opening, but I
 
 ## Early game scouting 
 - <a data-router-ignore href="https://brandanmahaffey.github.io/LWG-Guides/static/Graphics/Opening_Response_Guide.html">Opening Response Guide</a>
+
+
  *After the opening*
 - When possible while scouting around someone's natural its often a very good habit to look if their castle is producing. There is a small flashing light under the door if workers are being produced. In the early game, if you notice this not flashing for more than a few+ seconds that is highly suspect of a worker cut all in / pressure.
 - A mixture of the above tip and just checking for the third timing is often enough info to make a generally good cookie cutter decision without having to know exactly what's going on.
@@ -76,7 +78,7 @@ From here there are a lot of options depending on how things have gone. Transiti
 ## Vs Beast, reactions after third 
 
 ### If opponent is playing standard
-`forge > 4th base > 2 rax (4)` — can swap this order if you like, but this is how I like to do it typically. Proceed how you see fit.
+`forge > 4th base > 2 rax (4)` — can swap this order if you like, but this is how I like to do it typically. Proceed how you see fit. Standard being something along the lines of 2 den production into a third, generally meaning their third is shortly after yours or around the same time.
 
 ---
 
@@ -86,7 +88,7 @@ From here there are a lot of options depending on how things have gone. Transiti
 ---------------------------------------
 As long as you aren't horribly behind in eco you only stand to gain by waiting and growing supply. Beast benefits from trading and using their very fast production cycles to chip away at you and they can field large midgame armies because of this. If you can abstain from taking any horrendous trades until you reach 120+ supply though beast is in trouble.
 
-You still need to scout though, as beast players will regularly play very greedy hoping you stay overly passive and if you never try to punish anything you may in fact have a bad time. Another reason bird op :) the hard part about playing rax vs beast is understand when you can go and when to sit tight.
+You still need to scout though, as beast players will regularly play very greedy hoping you stay overly passive and if you never try to punish anything you may in fact have a bad time. Another reason bird op :) the hard part about playing Rax vs Beast is understanding when you can go and when to sit tight.
 
 If upgrades are even wolf snake tends to require a substantial supply lead to battle vs rax armies. So much so that its standard play for beast to transition into catas after their 4th or 5th base in order to have some of kind answer to your death ball; once you scout them switching into cata's that is your big signal to claim the map back. If you are capable split pushing and taking bases is ideal now. Every time you come across their forces just poke and kite back away from the catas. You will trade very well and just rinse and repeat on 2 sides until they are worn down.
 

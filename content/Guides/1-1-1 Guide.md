@@ -7,7 +7,7 @@ cssclasses:
 
 # 1-1-1 Guide
 
-Because it falls slightly outside the scope of the decision making skeleton I figured I would try to make a guide specifically for it. However I hope to still show how we will use intentional cuts in production to more or less follow a similar pattern. We wont always be outputting from all 3 of our buildings unless we need to but that's where the power of the 1-1-1 comes from, flexibility.
+ Because it falls slightly outside the scope of the decision making skeleton I figured I would try to make a guide specifically for it. However I hope to still show how we will use intentional cuts in production to more or less follow a similar pattern. We wont always be outputting from all 3 of our buildings unless we need to but that's where the power of the 1-1-1 comes from, flexibility. 
 
 ##### Openings I would suggest
 --------------------------------
@@ -25,10 +25,8 @@ Because it falls slightly outside the scope of the decision making skeleton I fi
 ---------------------------------
 **Classic raider expand** into the Third Variation I talk about in my Rax Guide that I will quote below. 
 
-"Another option suitable in any match up but I think its only good if you follow up with mech and ideally utilizing the raiders to backstab if your opponent tries to pressure you.
-
-26 castle > 28 tower (3rd) > 30 tower(nat) @ 100% castle > 3x worker > Workshop > 3x worker > archer + house, 
-will need another house after starting cata"  < insert mill @100% workshop
+"Another option suitable in any match up but I think its only good if you follow up this version with mech it has the best synergy with the towers.
+26 castle > x2 worker > tower (3rd) > x2 worker > tower (nat) > workshop @ 100% castle > workers > archer + house. macro up." < mill or advanced workshop once you can afford it
 
 This is not a 2 base 1-1-1 but rather 3 base so I'm not sure if it "counts" but this has for a long time been one of the strongest ways to get into playing mech if you can pull off the early game execution. I think it transitions into a very solid setup. you aren't forced to stay on mech after the 1-1-1 either but i generally find having the towers already lends the best synergy to sticking with mech. 
 
