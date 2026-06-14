@@ -34,15 +34,14 @@ Daz + opening? Dazening? if you lose to this have you been Dazzled?
 Food for thought for minds greater than mine. 
 
 19 Castle > Rax > Worker
-Wolf archer is very versatile in the early game though you often need workers to help defend the low ground temporarily vs raider pressure.
+Wolf archer is very versatile in the early game though you often need workers to help defend the low ground temporarily vs raider pressure. I did not think this to be entirely viable / safe at first and can say I have since been proven wrong.
 
 ---
-
 ## Early game
 
 Link to reference graphics when relevant:
 
-- <a data-router-ignore href="https://brandanmahaffey.github.io/LWG-Guides/static/Graphics/Opening_Response_Guide.html">Opening Response Guide</a>
+- <a href="https://brandanmahaffey.github.io/LWG-Guides/static/Graphics/Opening_Response_Guide.html">Opening Response Guide</a>
 
 Den openings have the most consistent access to early gold reading with the first wolf which is a big part of what makes my opening safe. Without gold reading and reacting you will Have a bad time.
 I would even argue gold reading is still a safe habit for DC opening but its window to read the gold or figure out what's going on through other means is larger as your castle is later you have more time to scout and its natively safer by nature of being a more aggressive opening.
@@ -72,7 +71,7 @@ Werewolves are also actually very strong in the match up as well but id recommen
 
 From here there are a lot of options depending on how things have gone. Transitions happen in **chunks** — pick them up as you have the money while macroing.
 
-- <a data-router-ignore href="https://brandanmahaffey.github.io/LWG-Guides/static/Graphics/decision_making_skeleton.html">Decision Making Skeleton</a>
+- <a href="https://brandanmahaffey.github.io/LWG-Guides/static/Graphics/decision_making_skeleton.html">Decision Making Skeleton</a>
 
 ## Scouting Reactions after third
 
