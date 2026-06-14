@@ -34,7 +34,7 @@ Daz + opening? Dazening? if you lose to this have you been Dazzled?
 Food for thought for minds greater than mine. 
 
 19 Castle > Rax > Worker
-Wolf archer is very versatile in the early game though you often need workers to help defend the low ground temporarily vs raider pressure. I did not think this to be entirely viable / safe at first and can say I have since been proven wrong.
+Wolf archer is very versatile in the early game though you often need workers to help defend the low ground temporarily vs raider pressure. I did not think this to be entirely safe/viable at first and can say I have been proven wrong.
 
 ---
 ## Early game
