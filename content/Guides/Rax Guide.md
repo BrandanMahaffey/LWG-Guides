@@ -46,11 +46,15 @@ Very normal to cancel third raider and expand faster if you see its a mirror mat
 **Vs Beast**
 Typically going 4-5 raiders off 1 rax and cutting workers at 16 to drop a very fast 3rd castle on 24-26/30 > from here there are quite a few options you can go with. My primary one generally sticks with the theme of my normal build order chunks, just with the third swapped in front of 2nd production. After Castling id want to start 2 workers > 2nd rax > 2 workers 30/30 > @100% castle 3 worker >2 unit > house > 3 worker. From there it gets easier to macro. If concerned with an all in you can swap out 2 workers for an extra unit, but i find id usually just rather have the workers even under pressure. However, i have a separate preferred version when running into a rax mirror.
 
+
+
 **Vs Rax**: 
 Same fast Third but then drop 2 dens right away then resume workers often even cutting raider production off at 3 or 4 to get the castle and dens down faster. Its very important to note you cant actually afford to produce out of all your castles and use 3 production buildings and keep up with houses while following this setup. what you get in exchange is more flexibility if you needed to cut workers longer and pump wolves + soldier/archer you can. If your raider scouting made you feel like there was no immediate danger, simply delay using the dens in favor of worker + archer production. I also enjoy this follow up as a way to get out of a Rax Mirror match up going into the mid game.
 
+Vs Rax: rather than going for the 26 supply third, throw down a workshop and house then go into a third if you want a stable way to go into mech in Rax vs Rax. Raiders can do a great job on the map early and you have access to early catas for archer pushes. If they aren't taking a third though build a couple of towers for safety and you can have them more tucked in this scenario as the catas can prevent them from picking at you.
+
 **Even older variation**
-Another option suitable in any match up but I think its only good if you follow up this version with mech it has the best synergy with the towers.
+Another option vs Beast but I think its only good if you follow up this version with mech it has the best synergy with the towers.
 26 castle > x2 worker > 28 tower (3rd) > x2 worker > 30 tower (nat) > workshop @ 100% castle > workers > archer + house. macro up.
 
 When placing towers vs archers put the towers forward of your expansions rather than tucked like you would vs wolves otherwise their archers can just shoot your castle for free.

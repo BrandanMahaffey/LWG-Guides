@@ -25,10 +25,12 @@ cssclasses:
 ---------------------------------
 **Classic raider expand** into the Third Variation I talk about in my Rax Guide that I will quote below. 
 
-"Another option suitable in any match up but I think its only good if you follow up this version with mech it has the best synergy with the towers.
+"Another option vs Beast but I think its only good if you follow up this version with mech it has the best synergy with the towers.
 26 castle > x2 worker > tower (3rd) > x2 worker > tower (nat) > workshop @ 100% castle > workers > archer + house. macro up." < mill or advanced workshop once you can afford it
 
 This is not a 2 base 1-1-1 but rather 3 base so I'm not sure if it "counts" but this has for a long time been one of the strongest ways to get into playing mech if you can pull off the early game execution. I think it transitions into a very solid setup. you aren't forced to stay on mech after the 1-1-1 either but i generally find having the towers already lends the best synergy to sticking with mech. 
+
+After some testing I feel like this is better against Beast, and if you are playing Rax vs Rax I would like to state it feels optimal to play a workshop and a 2nd house before the third. Then getting a tower if they are late to take a third of their own. This will give access to cata's much earlier if need be, I tend to drop my third while my workshop is still building. With ideas to backstab if I can.
 
 --------------------------------------
 **DC > 1-1-1.**
