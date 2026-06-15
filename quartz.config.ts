@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "goatcounter",
-      websiteId: "lwg-guides",
+      websiteId: "haffey",
     },
     locale: "en-US",
     baseUrl: "BrandanMahaffey.github.io/LWG-Guides",
