@@ -7,7 +7,10 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: {
+      provider: "goatcounter",
+      websiteId: "lwg-guides",
+    },
     locale: "en-US",
     baseUrl: "BrandanMahaffey.github.io/LWG-Guides",
     ignorePatterns: ["private", "templates", ".obsidian"],
