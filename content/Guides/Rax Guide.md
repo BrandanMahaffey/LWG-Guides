@@ -83,8 +83,15 @@ From here there are a lot of options depending on how things have gone. Transiti
 
 #### If opponent is playing standard
 `forge > 4th base > 2 rax (4)` — can swap this order if you like, but this is how I like to do it typically. Proceed how you see fit. Standard being something along the lines of 2 den production into a third, generally meaning their third is shortly after yours or around the same time.
+
+A similar blurb I added to the beast guide I believe it may be wise to respect worker pull timings and simply play 4 production buildings before 4th base in all scenario's. My 4th timing in standard play is generally something I have always been able to defend but it can be a narrow defense, however after some testing, if workers are pulled with a sharp 3 base timing I am not certain you can always defend with the above setup. It is possible but is a risk / complicated defense I'd rather avoid.
+in all cases you want to rush out the next base it may be best to build a workshop or 2 then go take the base while they build if you want to be extra safe as cata's really do shutdown timing attacks very hard. trade off is you really slow down your mobility in the next stage of the game.
+
+
+
 #### If opponent's 3rd is notably later than yours
 `2 rax (4) > 2x forge > take 4th base > 2 rax (6) > church`
+I still like double forge over single forge vs players that stick on 2 bases longer than usual. I find they are either making alot of units or they went early upgrades, springing for the extra forge is fairly safe especially if you went 4 rax first and can really put pressure on them to do something before your upgrades get out of hand. and if they were going early upgrades it lets you catch up or pass them down the line making solid use of the eco lead you'd likely have.
 
 ---------------------------------------
 As long as you aren't horribly behind in eco you only stand to gain by waiting and growing supply. Beast benefits from trading and using their very fast production cycles to chip away at you and they can field large midgame armies because of this. If you can abstain from taking any horrendous trades until you reach 120+ supply though beast is in trouble.

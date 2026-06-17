@@ -72,7 +72,9 @@ From here there are a lot of options depending on how things have gone. Transiti
 ## Scouting Reactions after third
 
 ### If opponent is playing standard
-`ATL(animal testing lab) > 4th base > 2 den+charmer (4)`  can swap this order if you like but this is how I like to do it typically. Proceed how you see fit.
+`ATL(animal testing lab) > 4th base > 2 den+charmer (4)`  can swap this order if you like but this is how I like to do it typically. Proceed how you see fit. 
+
+After some more testing I find this version has a hard time holding some of the faster 3 archer all ins with a worker pulls with beast vs rax and in particular if you see early archer production you may want to consider just going testing lab & 4 dens as a regular course of action before the 4th. I may condense down some of my reactions to simplify things in the future for both beast and rax my 4th timing tends to live on the edge of whats safe and I can get away with it however fast worker pull timings have shown to be effective against it I may need to consider 4 production buildings before 4th to be a more bulletproof approach.
 
 ---
 
