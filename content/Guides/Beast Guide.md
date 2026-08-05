@@ -12,10 +12,12 @@ cssclasses:
 8 House
 9 Den
 @100% den > 2nd House
-Produce workers until 13 & 4 to 5 wolves
+Produce workers until 13 & make 4 to 5 wolves then
 Castle > Wolf > 2nd Den > Wolf > resume workers
 
-## Haffey Opening
+One of my favorite openings for balancing eco with saftey / aggro i dont think its quite as "optimal" as the modern one house den openings but it is less complicated vs cheese and isn't bad against anything.
+
+## Haffey Opening 1 house 1 den
 
 8 House
 9 Den
@@ -74,13 +76,15 @@ From here there are a lot of options depending on how things have gone. Transiti
 ### If opponent is playing standard
 `ATL(animal testing lab) > 4th base > 2 den+charmer (4)`  can swap this order if you like but this is how I like to do it typically. Proceed how you see fit. 
 
-After some more testing I find this version has a hard time holding some of the faster 3 archer all ins with a worker pulls with beast vs rax and in particular if you see early archer production you may want to consider just going testing lab & 4 dens as a regular course of action before the 4th. I may condense down some of my reactions to simplify things in the future for both beast and rax my 4th timing tends to live on the edge of whats safe and I can get away with it however fast worker pull timings have shown to be effective against it I may need to consider 4 production buildings before 4th to be a more bulletproof approach.
+After some more testing I find this version has a hard time holding some of the faster 3 base rax archer all ins with a worker pull. In particular if you see early archer production you may want to consider just going testing lab & 4 dens as a regular course of action before the 4th base. I may condense down some of my reactions to simplify things in the future for both beast and rax my 4th timing tends to live on the edge of whats safe and I can get away with it typically however fast worker pull timings have shown to be effective against it I may need to consider 4 production buildings before 4th to be a more bulletproof approach and something i may move towards abandoning the idea of 4th base on 2 production buildings. it does seem to require a worker pull in order to kill it but if people catch on to that id rather not have my primary means of transitioning be so risky. 
+
+my current thoughts are to just simplify and condense this and the following paragraph down and make my general transition always have the 4 production buildings before the 4th base and having some wiggle room to cut units to speed up the 4th depending on scouting? obviously there will be scenario's you want to rush the 4th still but I might have to consider the idea of classifying those as more niche scenario's rather than a standard in which i play and promote? 3 base worker pull all ins are definitely making me reconsider what i can get away with in a standard looking game.
 
 ---
 
 ### If opponent's 3rd is notably later than yours
 `2 den (4) > ATL (animal testing lab) > take 4th base > 2 den (6)` 
-play as you see fit after. 
+play as you see fit after. this setup is safe against virtually everything, i generally prefer the 4 production building setup on before my 4th in scenario's where opponents have a delayed their own third base. when they stay on 2 bases longer it typically means they either have more units or enough tech to apply enough pressure to make rushing the 4th impractical thus this is a more robust transition.
 
 ---
 
